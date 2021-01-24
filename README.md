@@ -1,4 +1,9 @@
-# HSE – [Data Science] ([НОД]) notebooks
-I am sharing my notebooks. Hope, they will help some of you in data analysis and visualization. 
+# Some of my homeworks and exam tasks
 
-Some cool paradoxes statistically explained insde :)
+HSE – [Data Science] ([НОД]) notebooks
+HSE – [Machine Learning] ([ML]) notebooks
+
+
+I am sharing my notebooks. Hope, they will help some of you in machine learning, data analysis and visualization. 
+
+Some cool tasks inside :)
